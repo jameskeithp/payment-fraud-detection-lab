@@ -1,0 +1,2 @@
+# Test suite only; the fraudlab package itself uses the standard library.
+pytest==8.3.4
